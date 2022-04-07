@@ -20,7 +20,7 @@
 import os
 import sys
 
-import my_new_package
+import ..my_new_package
 
 # -- General configuration ---------------------------------------------
 
