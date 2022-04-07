@@ -29,5 +29,5 @@ jobs:
         run: |
           pytest
 #          pytest --cov --cov-report xml . # set up codecov to run this
-      - name: Upload coverage
-        uses: codecov/codecov-action@v2
+      # - name: Upload coverage
+      #   uses: codecov/codecov-action@v2
