@@ -1,4 +1,4 @@
-# My New Package
+# Python package
 
 <a href="https://pypi.python.org/pypi/my_new_package">
     <img src="https://img.shields.io/pypi/v/my_new_package.svg"
@@ -9,11 +9,9 @@
     <img src="https://github.com/user/my_new_package/actions/workflows/tests.yml/badge.svg?branch=release" alt="CI Status">
 </a>
 
-Python package doing python things.
-
 
 # Features
 
 # Credits
 
-This package was created with [Cookiecutter](https://github.com/audreyr/cookiecutter).
+This package was created with [Cookiecutter](https://github.com/isabelizimm/cookiecutter-custompy).
