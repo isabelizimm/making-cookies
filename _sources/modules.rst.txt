@@ -1,0 +1,7 @@
+my_new_package
+==============
+
+.. toctree::
+   :maxdepth: 4
+
+   my_new_package

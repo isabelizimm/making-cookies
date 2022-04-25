@@ -1,0 +1,21 @@
+my\_new\_package package
+========================
+
+Submodules
+----------
+
+my\_new\_package.my\_new\_package module
+----------------------------------------
+
+.. automodule:: my_new_package.my_new_package
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: my_new_package
+   :members:
+   :undoc-members:
+   :show-inheritance:
